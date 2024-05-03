@@ -1,2 +1,2 @@
 # Aayushi-demo
-This is My first  Git Repository.
+This is My first demo Git Repository.
